@@ -14,4 +14,19 @@ else:
        nth = n1 + n2
        n1 = n2
        n2 = nth
-       count += 1
+       count += 17
+
+
+
+#print positive numbers in given range
+list1=[12,-7,5,64,-14]
+for num in list1:
+  if num>=0:
+     print(num)
+
+
+#print positive numbers in given range
+list2=[12,14,-95,3]
+for i in list2:
+   if i>=0:
+      print(i)
